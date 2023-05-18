@@ -40,9 +40,11 @@ Before using this application, ensure you have the following prerequisites insta
 
 To install the Library Management System, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/library-management-system.git`
-2. Navigate to the project directory: `cd library-management-system`
+1. Clone the repository: `https://github.com/Priyanshusingh08/CodeClouse/tree/main/Library_Management`
+2. Navigate to the project directory: `cd Library`
 3. Compile the Java files: `javac *.java`
 4. Run the application: `java Main`
 5. The application is now ready to use.
-
+___________________________________________________________________________
+Notice*  For more information please refer "Liberary_management_doucment"
+____________________________________________________________________________
